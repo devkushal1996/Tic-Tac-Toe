@@ -44,6 +44,26 @@ body {
     color: #fff;
     border-radius: 1rem;
     border: none;
+}
 
+#new-btn {
+    padding: 1rem;
+    font-size: 2.25vmin;
+    background-color: #001427;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+}
 
+#msg {
+    color: #F4D58D;
+    font-size: 5vmin;
+}
+
+.msg-container {
+    height: 30vmin;
+}
+
+.hide {
+    display: none;
 }
